@@ -1,0 +1,30 @@
+img{
+    width: 119px;
+    height: 119px;
+}
+
+div{
+    width: 374px;
+    margin: 0 auto;
+}
+
+div > div{
+    width: 120px;
+    height: 120px;
+    border: 1px solid green;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+p{
+    text-align: center;
+}
+
+.blue{
+    color: blue;
+}
+
+.red{
+    color: red;
+}
